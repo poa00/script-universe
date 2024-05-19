@@ -1,6 +1,6 @@
 # Universe
 
-[Universe - Manifest](https://github.com/poa00/script-universe/wiki/Universe-Manifest "Index and descriptions of all scripts hosted in this repo")
+[Universe - Manifest](https://github.com/poa00/script-universe/wiki/Universe%E2%80%90Manifest "Index and descriptions of all scripts hosted in this repo")
 
 ## Add New Files
 
