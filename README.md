@@ -1,6 +1,6 @@
 # Universe
 
-[Universe - Manifest](https://rawgit.com/jftuga/universe/master/gh-manifest.html)
+[Universe - Manifest](https://github.com/poa00/script-universe/wiki/Universe-Manifest "Index and descriptions of all scripts hosted in this repo")
 
 ## Add New Files
 
